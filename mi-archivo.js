@@ -1,2 +1,2 @@
 "Hola mundo_editado
-"Cabios en el archivo"
+"Cambios en el archivo"
